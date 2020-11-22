@@ -1,0 +1,151 @@
+Reference, Value,Description & Notes, Datasheet, Footprint
+C1,20p,Use multiplayer ceramic,~,Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm
+C2,20p,use multiplayer ceramic,~,Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm
+C3,470uF/16V,"Footprint might be a bit small, I suggest to mount it liying on his side (check my photos on Facebook)",~,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm
+C4,220uF/16V,,~,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm
+C5,100n,use multiplayer ceramic,~,Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+C6,100n,use multiplayer ceramic,~,Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+C7,100n,use multiplayer ceramic,~,Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+D_S1,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D_S2,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D1,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D10,1N914,,http://www.vishay.com/docs/85622/1n914.pdf,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal
+D11,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D12,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D13,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D14,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D15,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D16,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D17,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D18,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D19,1N914,,http://www.vishay.com/docs/85622/1n914.pdf,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal
+D2,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D20,1N914,,http://www.vishay.com/docs/85622/1n914.pdf,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal
+D21,1N914,,http://www.vishay.com/docs/85622/1n914.pdf,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal
+D22,1N914,,http://www.vishay.com/docs/85622/1n914.pdf,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal
+D23,1N914,,http://www.vishay.com/docs/85622/1n914.pdf,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal
+D24,1N914,,http://www.vishay.com/docs/85622/1n914.pdf,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal
+D25,1N914,,http://www.vishay.com/docs/85622/1n914.pdf,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal
+D26,1N4001,,http://www.vishay.com/docs/88503/1n4001.pdf,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal
+D3,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D4,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D5,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D6,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D7,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D8,LED,,~,dafx-kicad-lib:LED_D5.0mm
+D9,1N914,,http://www.vishay.com/docs/85622/1n914.pdf,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal
+GND1,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+GND2,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H1,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H10,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H11,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H12,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H13,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H14,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H15,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H16,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H2,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H3,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H4,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H5,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H6,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H7,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H8,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+H9,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+J1,Barrel_Jack,I usually use lumberg 2.1mm jacks for boss-style power,~,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+J2,AVR-ISP-6,you can cut this out a longer 2 line strip, ~,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical
+J3,DIN-5_180degree,"MIDI, panel mount",http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical
+J4,DIN-5_180degree,"MIDI, panel mount",http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical
+JI_1,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JO_1,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JP1,Jumper_NO_Small,,~,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+JR_1,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JR_2,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JR_3,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JR_4,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JR_5,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JR_6,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JR_7,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JR_8,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JS_1,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JS_2,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JS_3,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JS_4,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JS_5,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JS_6,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JS_7,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+JS_8,AudioJack3_Switch,,~,Connector_Audio:Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
+K1,FRT5,,https://www.elpro.org/de/index.php?controller=attachment&id_attachment=8663,Relay_THT:Relay_DPDT_FRT5
+K2,FRT5,,https://www.elpro.org/de/index.php?controller=attachment&id_attachment=8663,Relay_THT:Relay_DPDT_FRT5
+K3,FRT5,,https://www.elpro.org/de/index.php?controller=attachment&id_attachment=8663,Relay_THT:Relay_DPDT_FRT5
+K4,FRT5,,https://www.elpro.org/de/index.php?controller=attachment&id_attachment=8663,Relay_THT:Relay_DPDT_FRT5
+K5,FRT5,,https://www.elpro.org/de/index.php?controller=attachment&id_attachment=8663,Relay_THT:Relay_DPDT_FRT5
+K6,FRT5,,https://www.elpro.org/de/index.php?controller=attachment&id_attachment=8663,Relay_THT:Relay_DPDT_FRT5
+K7,FRT5,,https://www.elpro.org/de/index.php?controller=attachment&id_attachment=8663,Relay_THT:Relay_DPDT_FRT5
+K8,FRT5,,https://www.elpro.org/de/index.php?controller=attachment&id_attachment=8663,Relay_THT:Relay_DPDT_FRT5
+PWR1,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+PWR2,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+Q1,2N3904,,https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf,Package_TO_SOT_THT:TO-92_Inline_Wide
+Q2,2N3904,,https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf,Package_TO_SOT_THT:TO-92_Inline_Wide
+Q3,2N3904,,https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf,Package_TO_SOT_THT:TO-92_Inline_Wide
+Q4,2N3904,,https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf,Package_TO_SOT_THT:TO-92_Inline_Wide
+Q5,2N3904,,https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf,Package_TO_SOT_THT:TO-92_Inline_Wide
+Q6,2N3904,,https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf,Package_TO_SOT_THT:TO-92_Inline_Wide
+Q7,2N3904,,https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf,Package_TO_SOT_THT:TO-92_Inline_Wide
+Q8,2N3904,,https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf,Package_TO_SOT_THT:TO-92_Inline_Wide
+R1,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R10,220R,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R11,220R,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R12,4k7,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R13,220R,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R14,512k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R15,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R16,330R,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R17,330R,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R18,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R19,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R2,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R20,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R21,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R22,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R23,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R24,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R25,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R26,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R27,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R28,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R29,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R3,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R30,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R31,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R32,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R33,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R34,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R35,512k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R36,512k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R37,512k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R38,512k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R39,512k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R4,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R40,512k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R41,512k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R5,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R6,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R7,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R8,1k,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R9,R_US,,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+RX1,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+RX2,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+SW1,SW_Push,Momentary Push Button (Carling Style),~,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+SW2,SW_Push,Momentary Push Button (Carling Style),~,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+SW3,SW_Push,Momentary Push Button (Carling Style),~,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+SW4,SW_Push,Momentary Push Button (Carling Style),~,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+SW5,SW_Push,Momentary Push Button (Carling Style),~,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+TX1,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+TX2,MountingHole_Pad,,~,Connector_Wire:SolderWirePad_1x01_Drill0.8mm
+U1,ATmega328P-PU,,http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf,Package_DIP:DIP-28_W7.62mm
+U2,L78L05_TO92,Mount on the bottom of the board,http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf,Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown
+U3,74HC595,,http://www.ti.com/lit/ds/symlink/sn74hc595.pdf,Package_DIP:DIP-16_W7.62mm
+U4,74HC595,,http://www.ti.com/lit/ds/symlink/sn74hc595.pdf,Package_DIP:DIP-16_W7.62mm
+U5,6N138,,http://www.onsemi.com/pub/Collateral/HCPL2731-D.pdf,Package_DIP:DIP-8_W7.62mm
+Y1,Crystal,Only 16Mhz will work in the design,16Mhz Low Profile,Crystal:Crystal_HC49-4H_Vertical
