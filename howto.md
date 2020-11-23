@@ -2,7 +2,7 @@
 
 Loopy is a medium complexity project for the occasional DIY-er, while it should be fairly straightforward for an avid one.
 
-## Step 1: Drilling
+##  Step 1: Drilling
 
 In my opinion, the hardest part of the build process is drilling the enclosure, due to the large number of holes.
 
@@ -15,11 +15,11 @@ My method is the following:
 - slightly overdrill the holes on the backpanel, as this will make easier to insert the PCB at the end
 - clean the enclosure and get ready for soldering
 
-# Step 2: Soldering
+## Step 2: Soldering
 
 [...]
 
-# Step 3: Finish it up
+## Step 3: Finish it up
 
 [...]
 
@@ -36,7 +36,7 @@ Loopy uses miniaturised signal relays. Some of the possible options are:
 
 Some of these models are discontinued, but any other signal relay with the same pinout will work just fine. I have uploaded a few datasheets for consultation in the `datasheets` folder.
 
-#### LEDs 
+#### LEDs 
 
 Any 5mm LED work in this project, but you want to be careful with the type you use and the resistors you couple with it. 
 
