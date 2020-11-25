@@ -1,5 +1,7 @@
 #  Loopy
 
+![Looper](./img/DSCF1542.jpg "Looper")
+
 Loopy (LP8+) is a DIY 8 loop programmable guitar pedal switcher with support for MIDI commands.
 
 Loopy is designed around easy-to-find components:
@@ -8,6 +10,8 @@ Loopy is designed around easy-to-find components:
  - 8 relays
  - several LEDS
  - several audio jacks
+
+![Main Board](./img/DSCF1528.jpg "Main Board")
 
 This page is a collection of documents that can help you build your own looper.
 
