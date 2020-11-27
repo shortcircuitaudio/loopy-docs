@@ -17,13 +17,17 @@ This page is a collection of documents that can help you build your own looper.
 
 ##  FAQ
 
-###  Where can I find a PCB?
+###  How does it work?
 
-Please contact me if you need a PCB: I will try to have spares available as long as there is demand for it.
+Have a look at the [Manual](./manual.md) for more info.
 
 ###  Can you guide me through the build?
 
 Please refer to the [How To Build Loopy](./howto.md) page.
+
+###  Where can I find a PCB?
+
+Please contact me if you need a PCB: I will try to have spares available as long as there is demand for it.
 
 ###  Why no display?
 
