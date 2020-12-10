@@ -62,12 +62,26 @@ The following steps should get you over the finishing line:
 
 ### Components Guide
 
+#### Firmware 
+
+| Firmware | Description |
+| --- | --- |
+| v1 | Original version, burnt into the first batch of chips |
+| v1b | Use MIDI out as MIDI Thru; Better timing in button debouncing |
+
+#### Firmware Compatibility Matrix
+
+| Firmware \ PCB  | PCB.20200806 | PCB.20201125 |
+| --- | --- | --- |
+| v1 | Yes | Yes |
+| v1b | Yes | Yes |
+
 #### Relays
 
 Loopy uses miniaturised signal relays. Some of the possible options are:
 
 - Zettler AZ850-5
-- NEC EA2-5NU
+- NEC EA2-5NU/EA2-5NJ (other brands produce this item with the same name)
 - Fujitsu A-5W-K
 - Panasonic/NAIS TQ2-5V
 
@@ -81,5 +95,5 @@ I have personally used 400mcd LEDs like the ones in [this link](https://www.swit
 
 #### Audio Jack
 
-I suggest to use the REAN/Neutrik NYS2152, but the REAN/Neutrik NYS215 works too (stereo): PCB is designed around this footprint and the schematic use stereo jacks, so an additional (unused, unconnected) hole is available on the PCB and this should give you some flexibility in the source of the part.
+I suggest to use the REAN/Neutrik NYS2152, but the REAN/Neutrik NYS215 works too (stereo): PCB is designed around this footprint and the schematic uses stereo jacks, so an additional (unused, unconnected) hole is available on the PCB. this should give you some flexibility in the sourcing of the part.
 Drawing diagram for these jacks is in the `datasheets` folder.
