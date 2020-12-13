@@ -12,7 +12,7 @@ My method is the following:
 
 - use a good quality center punch to set a drilling guide for each hole. It is very important especially for the holes on the front panel
 - drill every hole with a pilot bit (either 2mm, 2.5mm or 3mm works, but I usually tend towards the smaller size)
-- work your way up through the holes up to the right size for your components, but don't overdrill the front panel 5mm LEDs holes
+- work your way up through the holes up to the right size for your components, but don't overdrill the front panel 5mm LED holes
 - slightly overdrill the holes on the backpanel, as this will make easier to insert the PCB at the end
 - clean the enclosure and get ready for soldering ![Drilling Template](./img/DSCF1489.jpg "Drilling Template")
 
@@ -87,13 +87,13 @@ Loopy uses miniaturised signal relays. Some of the possible options are:
 
 Some of these models are discontinued, but any other signal relay with the same pinout will work just fine. I have uploaded a few datasheets for consultation in the `datasheets` folder.
 
-#### LEDs 
+#### LED
 
 Any 5mm LED work in this project, but you want to be careful with the type you use and the resistors you couple with it. 
 
-I have personally used 400mcd LEDs like the ones in [this link](https://www.switchelectronics.co.uk/blue-5mm-led-diffused-400mcd-30) with an 820R resistor, however you want to use a larger resistor value if you use high brightness LEDs, or you'll end up with a front panel too bright to be looked at without problems.
+I have personally used 400mcd LED like the one [here](https://www.switchelectronics.co.uk/blue-5mm-led-diffused-400mcd-30) with an 820R resistor, however you *must* to use a larger resistor value with high brightness LED, or you'll end up with a front panel too bright to be usable.
 
 #### Audio Jack
 
-I suggest to use the REAN/Neutrik NYS2152, but the REAN/Neutrik NYS215 works too (stereo): PCB is designed around this footprint and the schematic uses stereo jacks, so an additional (unused, unconnected) hole is available on the PCB. this should give you some flexibility in the sourcing of the part.
+I suggest to use the REAN/Neutrik NYS2152, but the REAN/Neutrik NYS215 works too (stereo version): PCB is designed around this footprint and the schematic uses stereo jacks, so an additional (unused, unconnected) hole is available on the PCB. this should give you some flexibility in the sourcing of the part.
 Drawing diagram for these jacks is in the `datasheets` folder.
