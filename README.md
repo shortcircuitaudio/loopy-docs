@@ -27,7 +27,7 @@ Please refer to the [How To Build Loopy](./howto.md) page.
 
 ###  Where can I find a PCB?
 
-Please contact me if you need a PCB: I will try to have some available as long as there is demand for it.
+Please contact me if you need a PCB: I will try to have some available as long as there is demand for it. Alternatively, you can check [my eBay profile](https://www.ebay.co.uk/usr/daviderocker82it).
 
 ###  Why no display?
 
@@ -48,3 +48,4 @@ No. However, I could be interested in discussing a partnership. Please get in to
 ###  Can I have the source code of the firmware?
 
 No. At the moment, I have decided to keep the source code private. However, HEX file for the firmware is available in this repo, and you are free to program your own chip with it.
+Check the [instructions on how to setup your microcontroller](./firmware.md).
