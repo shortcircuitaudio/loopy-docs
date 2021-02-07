@@ -37,6 +37,8 @@ All the jacks are mounted on the two boards, so I suggest to work your way up in
 
 - **you should now be able to power up your project**, and check the activation of the all the relays, as well that all the voltages are correct (especially in and out of the voltage regulator)
 
+I have uploaded a [small video on YouTube](https://www.youtube.com/watch?v=tt-ZAocfp6Q) that shows how the board should look like at this stage.
+
 ## Step 3: Finish it up & LED installation
 
 If you got at this stage of the build, you are ready for the tricky part: the installation of the LED.
@@ -51,10 +53,10 @@ The following steps should get you over the finishing line:
 - lock all the leads in place using small pieces of masking tapes, but don't bend the leads: this will allow you to rotate the board into its place without dropping all the LED out of the board
 - tight the nut of a few jack socket so that the main board is in place
 - one by one, release LED from their masking tape and make sure they finds the right hole on the front panel: might take a bit of time, so be patient
-- you should be able now to power up the project and do another rundown before soldering all the LED
-- if you are happy everything is working as expecteed, you can start soldering one by one all the LED and remove the excess for each lead (shouldn't be much)
+- you should be able now to power up the project and do another rundown before soldering all the LED (I strongly suggestt you do this!)
+- if you are happy everything is working as expected, you can start soldering one by one all the LED and remove the excess for each lead (shouldn't be much)
 - tight all the sockets
-- job done
+- job done, enjoy your programmable looper! :-)
 
 ![Looper Midi Socket](./img/DSCF1541.jpg "Looper Midi Socket")
 ![Looper](./img/DSCF1542.jpg "Looper")
@@ -68,6 +70,7 @@ The following steps should get you over the finishing line:
 | --- | --- |
 | v1 | Original version, burnt into the first batch of chips |
 | v1b | Use MIDI out as MIDI Thru; Better timing in button debouncing |
+| v2(a, b) | MIDI Control Change + MIDI Control Panel |
 
 #### Firmware Compatibility Matrix
 
@@ -75,6 +78,8 @@ The following steps should get you over the finishing line:
 | --- | --- | --- |
 | v1 | Yes | Yes |
 | v1b | Yes | Yes |
+| v2a | Yes | Yes |
+| v2b | Yes | Yes |
 
 #### Relays
 
@@ -91,7 +96,9 @@ Some of these models are discontinued, but any other signal relay with the same 
 
 Any 5mm LED work in this project, but you want to be careful with the type you use and the resistors you couple with it. 
 
-I have personally used 400mcd LED like the one [here](https://www.switchelectronics.co.uk/blue-5mm-led-diffused-400mcd-30) with an 820R resistor, however you *must* to use a larger resistor value with high brightness LED, or you'll end up with a front panel too bright to be usable.
+I have personally used 400mcd LED like the one [here](https://www.switchelectronics.co.uk/blue-5mm-led-diffused-400mcd-30) with an 820R resistor, however you *must* use a larger resistor value with high brightness LED, or you'll end up with a front panel too bright to be usable.
+
+I strongly suggest to buy decent quality one and test all of them before mouting: undoing the LED installation can be a painful job.
 
 #### Audio Jack
 

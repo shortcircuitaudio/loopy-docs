@@ -30,7 +30,7 @@ avrdude -c usbasp -p atmega328p -U flash:w:<hex file location>
 
 ## EEPROM
 
-The third command will setup the EEPROM, where the chip stores presets. Upload of the firmware will reset this location of memory: the following command will restore default values.
+The third command will setup the EEPROM, the portion of memory where the chip stores presets and config. The upload of the firmware will reset this location of memory, while running the following command will restore default values:
 
 ```
 avrdude -c usbasp -p atmega328p -U eeprom:w:loopy.eep
