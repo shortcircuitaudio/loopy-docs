@@ -1,4 +1,4 @@
-# Loopy LP8/LP4212 Manual
+# Loopy LP8/LP422 Manual
 
 ![Looper](./img/frontpanel.png "Looper")
 
