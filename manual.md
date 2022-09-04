@@ -1,4 +1,4 @@
-# Loopy LP8+ Manual
+# Loopy LP8/LP4212 Manual
 
 ![Looper](./img/frontpanel.png "Looper")
 
@@ -97,7 +97,7 @@ If you want to exit the `MIDI Listen Mode`, hold the FS1 (Bypass) pressed for 2 
 
 To **recall** a preset, send a PC command to Loopy when in `play mode`: configuration saved will be recalled and loops will engage/disengaged immediately. 
 
-### MIDI Control Change
+### MIDI Control Change
 
 Since `v.2a`, Loopy is capable of understanding MIDI Control Change messages from the `MIDI In` port. These messages are used to toggle loops indipendently from an external source.
 
@@ -109,7 +109,7 @@ Loopy will listen a specifc range of CC messages: these are defined in the MIDI 
 
 If you want to chain multiple Loopy, you might need to change the CC Range in order to toggle loops on/off (an example in [this video](https://www.youtube.com/watch?v=EMZONCrGOTY)).
  
-### MIDI Setup
+### MIDI Setup
 
 To **enter** the MIDI Setup control panel hold  `FS3` and `FS5` for 2 seconds. This option is available only in `preset mode` in the `v.2a` firmware, and in `play mode` too since `v.2b`.
 
